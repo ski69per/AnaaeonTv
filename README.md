@@ -2,6 +2,9 @@
 
 My girlfriend absolutely loves Barbie movies, and I already had a Drive collection with some of her favorites. So I built this streaming site just for her! 💖
 
+## Demo
+https://anaaeon-tv.vercel.app/
+
 **Important Note:** Not all Barbie movies are available in the collection yet, and some embedded videos might not work due to Drive limitations. If a movie doesn't play in the browser, simply head over to the folder and download it to watch on your local machine.
 
 ## Technical Notes
